@@ -1,0 +1,52 @@
+body{
+    background-image: url('background.jpg');
+}
+button{
+    border-radius: 4px;
+    width:100px;
+    height:50px;
+    align-items: center;
+    
+    font-size:16px;
+    font-weight: 600;
+}
+#r{
+    background-color: rgb(126, 123, 123);
+    
+}
+#p{
+    background-color: pink;
+}
+#s{
+    background-color: rgb(57, 144, 215);
+}
+
+h1{
+    text-align: center;
+    color:rgb(47, 120, 255);
+    text-shadow: 2px;
+    text-size-adjust: 40px;
+    color:goldenrod;
+}
+h3{
+    text-align: center;
+}
+div{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
+}
+#res{
+    margin-top:50px;
+    display:flex;
+    justify-content: space-around;
+    font-size: 20px;
+    font-weight:800 ;
+
+}
+.choice{
+    display:flex;
+    justify-content: space-around;
+
+}
